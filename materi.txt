@@ -1,0 +1,55 @@
+javascript
+
+Pendahuluan
+Pengenalan JavaScript
+Console
+Komentar
+Tipe Data Number
+Tipe Data Boolean
+Tipe Data String
+Tipe Data Array
+Tipe Data Object
+Variable
+Undefined
+Null
+String Template
+Konversi String dan Number
+Operator typeof
+Operator in
+Operator Matematika
+Operator Perbandingan
+Operator Logika
+If Expression
+Switch Expression
+Ternary Operator
+Nullish Coalescing Operator
+Optional Chaining
+Falsy dan Truthy
+Operator Logika di Non Boolean
+For Loop
+While Loop
+Do While Loop
+Break dan Continue
+Label
+For In
+For Of
+With Statement
+Function
+Function Parameter
+Function Return Value
+Optional Parameter
+Default Parameter
+Rest Parameter
+Function Sebagai Value
+Anonymous Function
+Function dalam Function
+Scope
+Recursive Function
+Function GEnerator
+Arrow Function
+Closure
+Object Method
+Kata Kunci this
+Arrow Function di Object
+Getter dan Setter
+Destructuring
